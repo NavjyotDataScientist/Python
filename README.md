@@ -1,7 +1,8 @@
 # Python
 
-# 🐍 Python Learning Repository  
-**Learn Python Step by Step — Comfortably**
+Learn Python Step by Step — Comfortably
+
+Please Note: If you dont understand any code or any file ask yourself have read the README file or simply search -----understand---then---move
 
 ## 📌 About This Repository
 This repository is created to help **beginners feel comfortable with Python** by learning through **small, simple, and meaningful projects**.
